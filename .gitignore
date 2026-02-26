@@ -1,0 +1,25 @@
+# API Keys — NEVER commit these
+.env
+secrets.py
+config.py
+
+# Output files
+*.xlsx
+*.csv
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
